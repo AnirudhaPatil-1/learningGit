@@ -21,3 +21,5 @@ Git commands we have learnt till now :-
 5.  git add .   ==>  to add all the files to staging area
 6.  git add file1.css file2.html file3.txt  ==> to add specific files to staging area 
 7.  git commit -m "you commit message"  ==>  to commit the changes
+8. git status -> mentions details(status) of file such as is the file staged or unstaged etc
+9. git log -> mentions details like status command and also  mentions commit details
