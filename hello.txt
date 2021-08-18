@@ -7,3 +7,6 @@ who made change and what
 hello my favourite colour is red
 now my favourite colour is yellow
 and now my fav colour is orange
+
+CREATED LOCAL REPOSITORY
+
